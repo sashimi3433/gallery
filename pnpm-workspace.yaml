@@ -39,6 +39,8 @@ overrides:
   proxy-addr: ^2.0.8
   shell-quote: ^1.11.0
   systeminformation: ^5.33.16
+  'undici@6': ^6.29.1
+  'undici@8': ^8.12.2
   'tar@7': ^7.5.19
 packageExtensions:
   '@immich/ui':
